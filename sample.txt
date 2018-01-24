@@ -1,1 +1,5 @@
-I am learning node.js. It is fun.
+I am learning node.js.
+
+It is fun.
+
+I am loving it.
